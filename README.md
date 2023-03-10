@@ -1,4 +1,4 @@
-# PrivateInformationRetrival
+# PrivateInformationRetreival
 Private Information Retrieval and Analysis of Genomic Data with Homomorphic Encryption
 
 ## Building Project
